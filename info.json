@@ -1,13 +1,16 @@
 {
-  "name": "[internal-mod-name]",
+  "name": "schall-tweaks",
   "version": "0.0.0",
-  "title": "[MOD DISPLAY NAME]",
-  "author": "[YOUR MODS.FACTORIO.COM USERNAME]",
+  "title": "Schall Tweaks",
+  "author": "MeteorSwarm",
   "homepage": "[HOMEPAGE/REPO URL]",
-  "description": "[SHORT DESCRIPTION]",
+  "description": "Modifies elements of Schall mods to improve game balance and replace low-resolution assets with higher resolution versions.",
   "factorio_version": "2.0",
   "dependencies": [
-    "base"
+    "base",
+    "? space-age",
+    "? SchallAlienTech >= 2.0.3",
+    "? SchallAmmoTurrets"
   ],
   "quality_required": false,
   "rail_bridges_required": false,
