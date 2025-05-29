@@ -51,3 +51,5 @@ if mods["SchallAmmoTurrets"] then
 
     update_technology()
 end
+
+require("compat.SchallTankPlatoon")

@@ -10,7 +10,8 @@
     "base",
     "? space-age",
     "? SchallAlienTech >= 2.0.3",
-    "? SchallAmmoTurrets"
+    "? SchallAmmoTurrets",
+    "? SchallTankPlatoon"
   ],
   "quality_required": false,
   "rail_bridges_required": false,
