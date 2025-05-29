@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 2025-05-29
+  Bugfixes:
+    - Corrected recipe for "Sniper piercing rounds magazine" to match updated recipe for standard piercing rounds magazine.
+---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: 2025-05-29
   Features:
